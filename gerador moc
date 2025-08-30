@@ -1,0 +1,3 @@
+npx create-react-app gerador-pmoc
+cd gerador-pmoc
+npm install axios qrcode.react
